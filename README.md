@@ -4,6 +4,7 @@ First time ever using React/front-end framework; just followed a tutorial on You
 I'm also very inexperienced on web dev, like I don't know most of the DOM API.
 
 Link to website: https://Simple-To-Do-List.travisemerick.repl.co
+
 Link to tutorial: https://www.youtube.com/watch?v=hQAHSlTtcmY
 
 
